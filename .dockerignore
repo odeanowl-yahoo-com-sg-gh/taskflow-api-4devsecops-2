@@ -1,0 +1,32 @@
+### Build & Compile Objects ###
+target/
+.mvn/
+.classpath/
+.project/
+.settings/
+
+### IDE & Editor Settings ###
+.idea/
+.vscode/
+*.swp
+
+### Git Meta Files ###
+.git
+.gitignore
+*.md
+
+### Docker Meta Files ###
+.dockerignore
+
+# Secrets & Environment Files
+.env
+*.env.local
+*.pem
+*.key
+
+### Others ###
+*.log
+.DS_Store
+Thumbs.db
+
+### END OF FILE ###
