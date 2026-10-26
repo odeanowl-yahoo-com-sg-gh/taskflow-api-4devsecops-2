@@ -1,3 +1,8 @@
+
+> ## Unforseen circumstances
+> [!IMPORTANT]
+> I am unable to complete Task 3 and Task 4. See "Errors and failures".
+
 # TaskFlow API
 
 A simple task management REST API built with Spring Boot. This is the sample project for the **Module 4 - End of Module Assignment**. Refer to the assignment instructions in **NTULearn** for the full list of tasks.
@@ -33,12 +38,14 @@ Your live Railway URL returning task data (in your browser or terminal).
 
 If you didn't complete every task, list what you completed, what went wrong, and the error messages you saw. If everything worked, write "None".
 
-```
 Completed: Task 1, Task 2
 
-Error at Task 3:
-<paste the error message here>
-```
+Unable to complete Task 3, and Task 4:
+- Since Wednesday, 21 October 2026, ~10:16 p.m. SGT, the Railway had paused all new sign-ups: ![Railway has paused sign-ups](<screenshots/Screenshot 2026-10-26 223150.png>)<br>
+The outage has derailed my ability to complete the task.
+- The following show the plan of my work. ![Reiterate-2 and Reiterate-3](<screenshots/Reiterate-3-screenshot-1793024916560.png>)<br>
+- Reiterate-2 shows the expected path of my work. The work was stalled because of work-a/c inability to pull the `dev` branch repo the public-face-a/c despite its status as a "collaborator" of the repo. ![work-a/c & Railway](<screenshots/Screenshot 2026-10-26 231459.png>)
+- Reiterate-3 shows the new plan. As Railway continues to restore their services, I anticipate further obstacles for new deployments: ![Railway status](<screenshots/screenshot-1793030896997.png>)
 
 ### Stretch goal (optional)
 
